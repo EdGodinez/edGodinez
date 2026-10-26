@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/banner.png"
+    src="./assets/Banner.png"
     alt="Banner de Eduardo Godínez"
     width="100%"
   />
